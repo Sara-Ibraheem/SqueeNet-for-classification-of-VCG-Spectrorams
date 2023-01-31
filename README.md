@@ -1,1 +1,1 @@
-# SqueeNet-for-classification-of-VCG-Spectrorams
+# SqueezNet-for-classification-of-VCG-Spectrorams
